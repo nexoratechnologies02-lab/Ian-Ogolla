@@ -1,0 +1,6 @@
+{
+  "name": "Scientific Calculator Pro",
+  "description": "A complete, offline-first scientific calculator inspired by the Casio fx-82MS 2nd Edition with 240+ functions, SHIFT/ALPHA modifiers, fractions, DMS, statistics, regressions, 9 memory variables, and expression replay.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
